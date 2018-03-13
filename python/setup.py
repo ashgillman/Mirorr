@@ -1,9 +1,4 @@
-import os
-import sys
-from glob import glob
 from setuptools import setup, find_packages
-from setuptools.extension import Extension
-import numpy
 
 setup(
     name='mirorr',
